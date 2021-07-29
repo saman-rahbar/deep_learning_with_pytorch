@@ -10,3 +10,4 @@
 - seaborn
 
 Make sure you have installed all the dependenicies and libraries compatible with python 3.6 to run the codes.
+A requirement.txt file will be added soon
